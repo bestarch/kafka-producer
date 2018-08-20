@@ -11,6 +11,11 @@ import org.springframework.stereotype.Service;
 
 import com.bestarch.framework.kafkapoc.bean.Request;
 
+/**
+ * 
+ * @author bestarch
+ *
+ */
 @Service
 public class DummyService {
 	

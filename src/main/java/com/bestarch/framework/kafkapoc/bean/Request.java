@@ -2,7 +2,7 @@ package com.bestarch.framework.kafkapoc.bean;
 
 /**
  * 
- * @author abhishek.srivastava4
+ * @author bestarch
  *
  */
 public class Request {

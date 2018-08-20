@@ -12,6 +12,11 @@ import org.springframework.web.bind.annotation.RestController;
 import com.bestarch.framework.kafkapoc.bean.Request;
 import com.bestarch.framework.kafkapoc.service.DummyService;
 
+/**
+ * 
+ * @author bestarch
+ *
+ */
 @SpringBootApplication
 @RestController
 @CrossOrigin(origins = "http://localhost:8080")
